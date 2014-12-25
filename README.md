@@ -11,3 +11,5 @@ a new script that you can then copy and paste into your DD-WRT routers Admin/Com
 in the WebUI. This script should work with any VPN service that uses a user/pass. 
 You may need to change the cipher AES-256-CBC if your VPN service uses BF-CBC or AES-128-CBC.
 Look in a .ovpn file or ask your provider for the cipher if you are unsure. 
+
+For an Example of how to use the script that this generator creates on your DD-WRT router there is a video posted here https://cdn-liquidvpn.netdna-ssl.com/wp-content/uploads/videos/liquidvpn_ddwrt_primer.mp4
